@@ -1,17 +1,19 @@
 <div align="center">
 
-# 🌀 Swirl.AI
+# 🌀 Swirl.Ai
 
-### AI that searches the live web, reasons before answering, and explains everything in plain language.
+### Answers, unlimited.
+
+### A free AI workspace with smarter reasoning, live web search, custom agents, and market intelligence.
 
 <p>
   <img src="https://img.shields.io/badge/Status-Active-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Powered-white?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web-Live_Search-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Reasoning_Powered-white?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web-Real_Time_Search-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
 </p>
 
-*Built to make AI research, coding, writing, and reasoning feel effortless.*
+*Built to give everyone access to powerful AI without limits.*
 
 </div>
 
@@ -19,114 +21,118 @@
 
 # Overview
 
-Swirl is an intelligent AI assistant built for people who need more than a chatbot.
+Swirl.Ai is a free AI assistant built to help people think, research, create, and automate.
 
-Instead of simply predicting text, Swirl combines live web search, advanced reasoning, document understanding, and developer tools into one seamless experience.
+Unlike traditional AI chats, Swirl combines advanced reasoning, real-time web search, custom AI agents, and market intelligence into one powerful workspace.
 
-Whether you're researching a topic, debugging code, writing content, or solving complex problems, Swirl is designed to think alongside you.
+Whether you are researching information, writing content, analyzing markets, coding, or building workflows, Swirl helps you get better answers faster.
 
 ---
 
 # Features
 
 ```text
-✓ Live Web Search
-
-✓ Multi-step Reasoning
-
-✓ Explain Answers Clearly
-
+✓ Unlimited AI Conversations
+✓ Advanced Reasoning
+✓ Real-Time Web Search
+✓ Custom AI Agents
+✓ Market Screener
 ✓ Code Generation
-
-✓ Debugging
-
-✓ Writing Assistant
-
+✓ Debugging Assistance
 ✓ Research Assistant
+✓ Document Analysis
+✓ Writing & Content Creation
+✓ Fast AI Responses
+What Makes Swirl Different?
 
-✓ Document Understanding
+Most AI assistants stop at answering.
 
-✓ Fast Responses
+Swirl goes further.
 
-✓ Modern Interface
-```
+Question
+   │
+   ▼
+Search Live Web
+   │
+   ▼
+Reason
+   │
+   ▼
+Analyze
+   │
+   ▼
+Execute With Agents
+   │
+   ▼
+Better Answers
 
----
+Swirl is built to help users move from questions to solutions.
 
-# Example
-
-```python
-User:
-"Research the latest AI models released this month."
+Example Use Cases
+Research
+"Find the latest AI breakthroughs and compare them."
 
 Swirl:
 
-✓ Searches the live web
-
-✓ Compares multiple sources
-
-✓ Explains key differences
-
+✓ Searches current information
+✓ Analyzes multiple sources
+✓ Explains key insights
 ✓ Summarizes findings
+Coding
+"Find the bug in this application."
 
-✓ Provides citations
-```
+Swirl:
 
----
+✓ Understands your code
+✓ Finds issues
+✓ Explains the problem
+✓ Suggests improvements
+Markets
+"Find interesting market opportunities."
 
-# Capabilities
+Swirl:
 
-| Feature | Included |
-|----------|-----------|
-| AI Chat | ✅ |
-| Live Web Search | ✅ |
-| Reasoning Engine | ✅ |
-| Code Generation | ✅ |
-| Debugging | ✅ |
-| Research | ✅ |
-| Writing | ✅ |
-| Document Analysis | ✅ |
-| Instant Responses | ✅ |
+✓ Screens markets
+✓ Analyzes trends
+✓ Helps discover opportunities
+Capabilities
+Feature	Status
+AI Assistant	✅
+Unlimited Messages	✅
+Real-Time Search	✅
+Reasoning Engine	✅
+Custom Agents	✅
+Market Screener	✅
+Code Assistant	✅
+Research Tools	✅
+Document Understanding	✅
+Philosophy
 
----
+AI should not just answer questions.
+It should help people accomplish more.
 
-# Philosophy
+Swirl is built around three principles:
 
-> AI should do more than answer questions.
-
-Swirl is built around three ideas.
-
-- Search when information changes.
-- Reason before responding.
-- Explain answers in a way anyone can understand.
-
----
-
-# Example Prompts
-
-```text
-Explain quantum computing like I'm 12.
-
+Think deeper — smarter reasoning before answering.
+Search live information — stay updated with the world.
+Build custom workflows — create agents that work for you.
+Example Prompts
 Research today's AI news.
 
-Compare two job offers.
+Build me a market analysis.
 
-Debug this Python traceback.
+Explain quantum computing simply.
+
+Find problems in my code.
+
+Create a business strategy.
 
 Summarize this document.
 
-Write an email that gets replies.
+Compare products.
 
-Create a business plan.
-
-Find security issues in my code.
-```
-
----
-
-# Tech Stack
-
-```yaml
+Create an AI agent for my workflow.
+Tech Stack
 Frontend:
   - Next.js
   - React
@@ -136,90 +142,43 @@ Frontend:
 Backend:
   - Node.js
   - AI Models
-  - Live Search
-  - Vector Search
+  - Search Infrastructure
+  - Agent Framework
 
 Infrastructure:
-  - Edge Functions
   - Serverless
+  - Edge Computing
   - Streaming Responses
-```
-
----
-
-# Why Swirl?
-
-Traditional AI chats only know what they've been trained on.
-
-Swirl goes further.
-
-```
-Question
-     │
-     ▼
-Search Live Web
-     │
-     ▼
-Reason
-     │
-     ▼
-Verify
-     │
-     ▼
-Explain
-     │
-     ▼
-Answer
-```
-
----
-
-# Roadmap
-
-```text
-[x] AI Chat
-
-[x] Live Web Search
-
+Roadmap
+[x] AI Assistant
+[x] Unlimited Conversations
+[x] Real-Time Web Search
 [x] Reasoning Engine
-
-[x] Document Analysis
-
-[x] Modern UI
+[x] Custom Agents
+[x] Market Screener
 
 [ ] Browser Extension
-
-[ ] Voice Conversations
-
-[ ] Mobile Apps
-
-[ ] Team Workspaces
-
+[ ] Voice Mode
+[ ] Mobile Applications
+[ ] Team Collaboration
 [ ] Public API
-```
+Vision
 
----
+Swirl.Ai is building the next generation of AI tools.
 
-# Vision
+An AI workspace that doesn't just respond.
 
-Swirl is building the next generation of AI assistants.
+It searches.
 
-An assistant that doesn't just respond—
+It reasons.
 
-it researches,
+It builds.
 
-it reasons,
-
-it explains,
-
-and helps people solve real problems.
-
----
+It helps people move faster.
 
 <div align="center">
+⭐ Star the repository if you believe AI should be accessible to everyone.
 
-### ⭐ Star the repository if you like the project.
+Answers, unlimited.
 
-**More updates coming soon.**
-
-</div>
+</div> ```
