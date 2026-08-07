@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌀 Swirl.Ai
+# 🌀 Swirls.Chat
 
 ### Answers, unlimited.
 
